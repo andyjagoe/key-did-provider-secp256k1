@@ -1,0 +1,24 @@
+{
+    "include": ["./src/*", "test/index.test.ts"],
+    "compilerOptions": {
+      "module": "ES2020",
+      "target": "ES2020",
+      "resolveJsonModule": false,
+      "moduleResolution": "Node",
+      "allowSyntheticDefaultImports": true,
+      "importHelpers": true,
+      "removeComments": true,
+      "declaration": true,
+      "sourceMap": true,
+      "rootDir": "src",
+      "outDir": "dist",
+      "strict": true,
+      "noImplicitReturns": true,
+      "noFallthroughCasesInSwitch": true,
+      "noUnusedLocals": true,
+      "noUnusedParameters": true,
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true,
+      "jsx": "react"
+    }
+  }

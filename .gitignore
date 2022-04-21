@@ -1,0 +1,8 @@
+.DS_Store
+node_modules
+dist
+*.log
+__snapshots__
+*.d.ts
+*.js.map
+*.test.js
