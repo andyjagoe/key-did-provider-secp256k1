@@ -1,5 +1,5 @@
 # secp256k1 key did provider
-This is a DID Provider which implements [EIP2844](https://eips.ethereum.org/EIPS/eip-2844) for `did:key:` using secp256k1. It does not support encryption (JWE).
+This is a DID Provider which implements [EIP2844](https://eips.ethereum.org/EIPS/eip-2844) for `did:key:` using secp256k1. It does not support encryption / JWE. It is based on [key-did-provider-ed25519](https://github.com/ceramicnetwork/key-did-provider-ed25519) and was designed to be used with [Ceramic](https://ceramic.network/).
 
 ## Installation
 
