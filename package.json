@@ -2,7 +2,14 @@
   "name": "key-did-provider-secp256k1",
   "version": "0.1",
   "description": "secp256k1 key did provider",
-  "repository": "https://github.com/andyjagoe/andyjagoe-key-did-provider-secp256k1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andyjagoe/andyjagoe-key-did-provider-secp256k1.git"
+  },
+  "homepage": "https://github.com/andyjagoe/andyjagoe-key-did-provider-secp256k1",
+  "bugs": {
+    "url": "https://github.com/andyjagoe/andyjagoe-key-did-provider-secp256k1/issues"
+  },  
   "author": "Andy Jagoe",
   "license": "(Apache-2.0 OR MIT)",
   "type": "module",
